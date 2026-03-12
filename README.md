@@ -1,4 +1,4 @@
-### 🇺🇸 英文版預覽 (README_EN.md)
+### README.md)
 
 # Hakka Coin Store Scraper
 
@@ -23,3 +23,6 @@ python your_script_name.py
 The program will launch a Chrome instance and begin scraping.
 
 Upon completion, the data will be saved as hakka_stores_final.csv in the same directory.
+
+
+https://www.google.com/maps/d/edit?mid=1c3FmHENEzsQuzT6iazjT7dWbb4kzgZ4&ll=24.90753179767694%2C121.19737290185861&z=12
