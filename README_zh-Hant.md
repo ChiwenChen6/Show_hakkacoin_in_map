@@ -54,3 +54,6 @@ python your_filename.py
 Name              Address
 某某客家小館       桃園市龍潭區...
 傳統工藝坊         新竹縣竹東鎮...
+
+直接import並顯示google map上
+https://www.google.com/maps/d/edit?mid=1c3FmHENEzsQuzT6iazjT7dWbb4kzgZ4&ll=24.90753179767694%2C121.19737290185861&z=12
