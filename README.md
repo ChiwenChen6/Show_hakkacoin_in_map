@@ -1,5 +1,5 @@
 ### README.md
-中文版　README_zh-Hant.md
+中文版　[README_zh-Hant.md]　(https://github.com/ChiwenChen6/Show_hakkacoin_in_map/blob/main/README_zh-Hant.md)
 
 # Hakka Coin Store Scraper
 
