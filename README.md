@@ -1,4 +1,5 @@
-### README.md)
+### README.md
+中文版　README_zh-Hant.md
 
 # Hakka Coin Store Scraper
 
